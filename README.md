@@ -94,7 +94,7 @@ Ini menunjukkan bahwa #intro h1 berhasil menimpa gaya dari h1 di Internal CSS un
 
 **3.**![foto](https://github.com/nanafnan09/Pratikum-Pict/blob/80ab50b7b012b00fa97f1e180cccfc2c25d3c554/Cuplikan%20layar%202025-10-01%20212647.png)
 
-Kedua gaya ini (color: #ccd8e4; dan text-align: center;) berasal dari Inline CSS pada tag <p> di HTML. Jika ada External atau Internal CSS yang mengatur warna atau perataan elemen ``<p>``, Inline CSS tetap menang,dan hasil yang Anda lihat di foto adalah bukti visualnya.
+Kedua gaya ini (``color: #ccd8e4; dan text-align: center;``) berasal dari Inline CSS pada tag <p> di HTML. Jika ada External atau Internal CSS yang mengatur warna atau perataan elemen ``<p>``, Inline CSS tetap menang,dan hasil yang Anda lihat di foto adalah bukti visualnya.
 
 **inilah yang akan terlihat**
 
